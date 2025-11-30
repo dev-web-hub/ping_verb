@@ -1,3 +1,3 @@
-module github.com/max/ping_verb
+module github.com/dev-web-hub/ping_verb
 
 go 1.22

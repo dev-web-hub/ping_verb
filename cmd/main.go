@@ -4,7 +4,7 @@ import (
     "encoding/json"
     "fmt"
     "os"
-    "github.com/max/ping_verb/internal"
+    "yourverb/internal"
 )
 
 func main() {
